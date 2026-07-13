@@ -101,4 +101,5 @@ pip install -r requirements.txt
 
 ## License
 
-Specify your license here (e.g., MIT, Apache 2.0).
+Aditya Jaggal
+
